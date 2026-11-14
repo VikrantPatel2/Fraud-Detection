@@ -1,0 +1,16 @@
+feature,importance
+location_Chennai,0.02634943
+location_Ludhiana,0.025675647
+merchant category_Bills,0.025536383
+anomaly flag,0.02544129
+day of week_Friday,0.025179947
+day of week_Wednesday,0.025102789
+merchant category_P2P Transfer,0.024205528
+location_Mumbai,0.023804195
+day of week_Sunday,0.023018043
+location_Chandigarh,0.0222367
+device type_iOS,0.021779971
+merchant category_Utilities,0.021752074
+day of week_Saturday,0.021671493
+day of week_Monday,0.021570373
+location_Delhi,0.021419635
